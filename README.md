@@ -19,7 +19,7 @@ A simple to-do list web application built with Django. Users can add, edit, dele
 Run Locally
   1. Clone the repo
  bash
-   git clone https://github.com/ruchitsoni3235/todo-list-django.git
+   git clone https://github.com/ruchitsoni3235/TodoListApp
    cd todo-list-django
 
 2. MAKE Migration
